@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cristina Giraldo</h1>
+<h1 align="center">Hi 👋, I'm Cristina Giraldo</h1>
 <h3 align="center">A computer engineering student</h3>
 
 - 📫 How to reach me **crisigiraldo@gmail.com**
